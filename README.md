@@ -1,4 +1,6 @@
-TDD_with_Python
-===============
+Test-Driven Development with Python
+===================================
 
-My walkthrough of the book Test-Driven Development with Python by Harry Percival
+My walkthrough of the book Test-Driven Development with Python by Harry J. W. Percival.
+
+Obey the testing goat!
