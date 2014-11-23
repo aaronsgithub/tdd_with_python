@@ -8,5 +8,3 @@ Obey the testing goat.
 ![Testing Goat](http://www.obeythetestinggoat.com/static/images/kid_goat.png)
 
 Don't be refactoring cat.
-
-![Refactoring Cat](https://i.imgur.com/47vDB1K.gif)
