@@ -9,4 +9,4 @@ Obey the testing goat.
 
 Don't be refactoring cat.
 
-![Refactoring Cat](https://i.imgur.com/47vDB1K.gif)
+![Refactoring Cat](http://i.imgur.com/47vDB1K.gif)
